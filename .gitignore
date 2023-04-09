@@ -1,1 +1,3 @@
 *.bin
+*weights_100.csv
+*weights_300.csv
