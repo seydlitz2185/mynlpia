@@ -1,0 +1,4 @@
+*.bin
+word_dict.npz
+*weights_100.csv
+*weights_300.csv
